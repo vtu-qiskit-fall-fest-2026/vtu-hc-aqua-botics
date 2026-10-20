@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Aqua botics** · Team ID `VTU-QFF-HC-0087` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Aqua botics)
+[⬆ Back to Top](#aqua-botics)
 
 </div>
